@@ -1,0 +1,23 @@
+.information-block {
+
+}
+
+.header-brand {
+  text-align:center;
+}
+
+.information-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.dell-logo{
+  width:200px;
+  height: 200px;
+}
+
+.impression-logo {
+  width: 200px;
+  height: 200px;
+}

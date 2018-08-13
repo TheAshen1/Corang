@@ -1,0 +1,3 @@
+Dell Blue 
+	RGB: 0 133 195
+	HEX: #0085C3
